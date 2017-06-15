@@ -1,2 +1,2 @@
-# unity-logger
-Log and assert everywhere in your code.
+# Unity Logger
+### Log and assert everywhere in your code.
